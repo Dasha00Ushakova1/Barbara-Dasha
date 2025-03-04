@@ -24,7 +24,7 @@
             padding: 15px 30px;
             font-size: 16px;
             color: white;
-            background-color: #007BFF;
+            background-color: #FFB6C1 ;
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -32,7 +32,7 @@
             width: 80%;
         }
         .button:hover {
-            background-color: #0056b3;
+            background-color: #FFB6C1 ;
         }
         .color-box {
             width: 80px;
