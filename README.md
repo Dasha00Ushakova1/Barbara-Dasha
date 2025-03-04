@@ -75,7 +75,7 @@
 <h1>ВАРЮХА Свистунова</h1>
 
 <div>
-    <button class="button" onclick="showText('Варвара учится во втром классе. Ей 7 лет . У Вари очень много хобби :) ')">Информация о Варваре </button>
+    <button class="button" onclick="showText('Варвара учится во втром классе. Ей 8 лет . У Вари очень много хобби :) ')">Информация о Варваре </button>
     <button class="button" onclick="changeColor('box1')"> Выбрать первый цвет </button>
     <button class="button" onclick="showText('Варя любит: сладости, сырную булку, бабл ти и своего Гуся')"> Интересные факты
     <button class="button" onclick="changeColor('box2')"> Выбрать второй цвет</button>
