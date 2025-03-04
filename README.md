@@ -79,7 +79,6 @@
     <button class="button" onclick="changeColor('box1')"> Выбрать первый цвет </button>
     <button class="button" onclick="showText('Варя любит: сладости, сырную булку, бабл ти и своего Гуся')"> Интересные факты
     <button class="button" onclick="changeColor('box2')"> Выбрать второй цвет</button>
-</div>
 
 <div id="text-output">ВаРьКа</div>
 
