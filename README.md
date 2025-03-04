@@ -15,7 +15,7 @@
             background-image: url(''); /* Замените на URL изображения фона */
             background-size: cover;
             background-position: center;
-            color: white;
+            color: black;
             margin: 0;
             padding: 0;
         }
