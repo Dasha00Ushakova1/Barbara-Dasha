@@ -74,10 +74,10 @@
 <h1>ВАРЮХА Свистунова</h1>
 
 <div>
-    <button class="button" onclick="showText('Тык сюда')">Кнопка 1</button>
-    <button class="button" onclick="changeColor('box1')">Изменить цвет 1</button>
-    <button class="button" onclick="showText('Сюда тоже можно тыкнуть')">Кнопка 2</button>
-    <button class="button" onclick="changeColor('box2')">Изменить цвет 2</button>
+    <button class="button" onclick="showText('Тык сюда')">Кнопка </button>
+    <button class="button" onclick="changeColor('box1')">Изменить цвет </button>
+    <button class="button" onclick="showText('Сюда тоже можно тыкнуть')">Кнопка </button>
+    <button class="button" onclick="changeColor('box2')">Изменить цвет </button>
 </div>
 
 <div id="text-output">ВаРьКа</div>
