@@ -75,9 +75,9 @@
 <h1>ВАРЮХА Свистунова</h1>
 
 <div>
-    <button class="button" onclick="showText('Тык сюда')">Кнопка </button>
+    <button class="button" onclick="showText('Варвара учится во втром классе')">Кнопка:) </button>
     <button class="button" onclick="changeColor('box1')">Изменить цвет </button>
-    <button class="button" onclick="showText('Сюда тоже можно тыкнуть')">Кнопка </button>
+    <button class="button" onclick="showText('Варваре 7 лет')">(:Кнопка </button>
     <button class="button" onclick="changeColor('box2')">Изменить цвет </button>
 </div>
 
