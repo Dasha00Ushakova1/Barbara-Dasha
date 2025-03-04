@@ -11,7 +11,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            height: 80vh;
             background-image: url('фон.jpg'); /* Замените на URL изображения фона */
             background-size: cover;
             background-position: center;
