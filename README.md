@@ -12,7 +12,7 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
-            background-image: url('https://github.com/Dasha00Ushakova1/Barbara/blob/e4f3c47f6f43eee041f72d6ceb9ee40c6b384dc7/%D1%84%D0%BE%D0%BD.jpg'); /* Замените на URL изображения фона */
+            background-image: url(''); /* Замените на URL изображения фона */
             background-size: cover;
             background-position: center;
             color: white;
@@ -87,13 +87,13 @@
 
 <div class="image-container">
     <div class="image-placeholder">
-        <img src="https://github.com/Dasha00Ushakova1/Barbara/blob/e4f3c47f6f43eee041f72d6ceb9ee40c6b384dc7/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-03-04%20%D0%B2%2020.00.11_ae252489.jpg" alt="1"> <!-- Замените на путь к Вашему изображению -->
+        <img src="" alt="1"> <!-- Замените на путь к Вашему изображению -->
     </div>
     <div class="image-placeholder">
-        <img src="https://github.com/Dasha00Ushakova1/Barbara/blob/e4f3c47f6f43eee041f72d6ceb9ee40c6b384dc7/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-03-04%20%D0%B2%2020.00.12_5b7921a0.jpg" alt="2"> <!-- Замените на путь к Вашему изображению -->
+        <img src="" alt="2"> <!-- Замените на путь к Вашему изображению -->
     </div>
     <div class="image-placeholder">
-        <img src="https://github.com/Dasha00Ushakova1/Barbara/blob/e4f3c47f6f43eee041f72d6ceb9ee40c6b384dc7/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-03-04%20%D0%B2%2020.00.24_f890ac4f.jpg" alt="3"> <!-- Замените на путь к Вашему изображению -->
+        <img src="" alt="3"> <!-- Замените на путь к Вашему изображению -->
     </div>
 </div>
 
