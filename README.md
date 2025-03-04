@@ -42,14 +42,15 @@
             transition: background-color 0.5s;
         }
         .image-container {
+            flex: 2; /* Занимает 2 части пространства */
             display: flex;
             flex-direction: row;
             justify-content: center;
             flex-wrap: wrap;
         }
         .image-placeholder {
-            width: 45%;
-            height: auto;
+            width: 100px; /* Уменьшенная ширина для изображений */
+            height: 100px; /* Уменьшенная высота для изображений */
             border: 2px dashed #ccc;
             display: flex;
             align-items: center;
