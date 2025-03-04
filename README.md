@@ -108,5 +108,5 @@
         box.style.backgroundColor = randomColor;
     }
 </script>
-</body>
-</html>
+
+
