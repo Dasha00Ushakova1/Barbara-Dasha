@@ -15,7 +15,7 @@
             background-image: url('фон.jpg'); /* Замените на URL изображения фона */
             background-size: cover;
             background-position: center;
-            color: black;
+            color: white;
             margin: 0;
             padding: 0;
         }
